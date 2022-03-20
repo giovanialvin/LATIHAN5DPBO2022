@@ -12,13 +12,39 @@ Saya Alvin Giovani 2003721 mengerjakan tugas LATIHAN5 dalam mata kuliah Desain d
   
   <li>
     Mengganti font dan ukuran teks <br>
-    ![image](https://user-images.githubusercontent.com/99602640/159170324-4c549f09-cc39-4290-b9be-3d3d182667b8.png)
+    ![image](https://user-images.githubusercontent.com/99602640/159170747-bb985b21-9e32-45a7-b947-8324246bead1.png)
   </li>
   
   <li>
+    Merubah nama variabel <br>
+    ![image](https://user-images.githubusercontent.com/99602640/159170584-9dd5912a-5024-4919-9b78-30556e12f196.png)
+  </li>
+  
+  
+  <li>
     Contoh inputan tidak lengkap <br>
-    ![image](https://user-images.githubusercontent.com/99602640/159170397-133183e0-58c4-4291-a41d-f00c8f765085.png)
+    ![image](https://user-images.githubusercontent.com/99602640/159170681-a7e204af-a3a8-48a2-9935-098d9da2b75e.png)
   </li>
     
+  <li>
+    Menambahkan record baru <br>
+    ![image](https://user-images.githubusercontent.com/99602640/159170652-99e2f9f4-e061-4484-a20d-5b19a15e178f.png)
+  </li>
+  
+  <li>
+    Mengupdate record <br>
+    ![image](https://user-images.githubusercontent.com/99602640/159170708-46b46a44-e3b8-4150-97bf-ffcc82a47de8.png)
+  </li>
+  
+  <li>
+    Menghapus record <br>
+    ![image](https://user-images.githubusercontent.com/99602640/159170749-b1f29698-1d87-4617-a819-adf41aeb1f9c.png)
+
+  </li>
   
 </ul>
+
+Note : Terdapat penambahan atribut string yaitu "Mata Kuliah"
+
+
+
